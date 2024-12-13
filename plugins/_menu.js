@@ -99,7 +99,6 @@ bot.addCommand(
 ┃❃│ Date : ${date.toLocaleDateString('hi')}
 ┃❃│ Version : ${ctx.VERSION}
 ┃❃│ Plugins : ${ctx.pluginsCount}
-┃❃│ Ram : ${getRam()}
 ┃❃│ Uptime : ${getUptime('t')}
 ┃❃│ Platform : ${getPlatform()}
 ┃❃╰───────────────
